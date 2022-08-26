@@ -1,38 +1,41 @@
-body {
+.header,
+.footer {
     background-color: #1f2937;
 }
 
-body{
+.main {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
 }
 
-body{
+.link,
+.secondary {
     font-size: 18px;
     color: #e5e7eb;
 }
 
-body{
+.logo {
     font-size: 24px;
     color: #f9faf8;
 }
 
-body{
+button,
+.action {
     background-color: #3882f6;
 }
 
-body{
+.information.header {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
 }
 
-body{
+.quote {
     background-color: #e5e7eb;
 }
 
-body{
+.quote.text {
     font-size: 36px;
     font-weight: light;
     font-style: italic;
